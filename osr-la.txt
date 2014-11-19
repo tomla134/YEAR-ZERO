@@ -1,0 +1,42 @@
+Received: by 10.35.44.14 with SMTP id w14cs22858pyj;
+        Wed, 11 Apr 2007 17:37:26 -0700 (PDT)
+Received: by 10.70.118.4 with SMTP id q4mr2282897wxc.1176338246348;
+        Wed, 11 Apr 2007 17:37:26 -0700 (PDT)
+Return-Path: <list@opensourceresistance.net>
+Received: from opensourceresistance.net ([69.20.126.146])
+        by mx.google.com with ESMTP id 43si107085wri.2007.04.11.17.37.26;
+        Wed, 11 Apr 2007 17:37:26 -0700 (PDT)
+Received-SPF: pass (google.com: domain of list@opensourceresistance.net designates 69.20.126.146 as permitted sender)
+Received: from 72934-web02 ([192.168.1.77]) by opensourceresistance.net with Microsoft SMTPSVC(6.0.3790.1830);
+	 Wed, 11 Apr 2007 17:37:39 -0700
+mime-version: 1.0
+from: "Open Source Resistance" <list@opensourceresistance.net>
+date: 11 Apr 2007 17:37:39 -0700
+subject: Update, plus OSR goes live in LA
+content-type: text/plain; charset=us-ascii
+content-transfer-encoding: quoted-printable
+Return-Path: list@opensourceresistance.net
+Message-ID: <72934-WEB02GJ2TUSzb0000017e@opensourceresistance.net>
+X-OriginalArrivalTime: 12 Apr 2007 00:37:39.0921 (UTC) FILETIME=[C66D5410:01C77C9A]
+
+Unbelievable, the quality of stuff you have been sending in.  Check out=
+ the new content on the site-and beyond that, people are starting to submit=
+ platforms with real potential.  From campus DJs and copy store clerks to=
+ people with connections at major networks and publications.  This feels=
+ like the start of something real.  (I'll be sending out the first few connections=
+ soon, so please keep them coming.  Every voice out here helps.) =0D=0A=
+ =0D=0ALocal news-some very serious artists in LA are making a difference=
+ in a very public place.  Check out the piece near Melrose and Ogden in=
+ LA.  If you're worried about where this country (and this world) is going,=
+ check out their work.  It will remind you why you should be worried:  but=
+ maybe give you a little juice for the fight, too.=0D=0A =0D=0ALastly, a=
+ few of us are talking about organizing a meeting here in LA.  If you're=
+ interested, show up at the Melrose location at or a little after 7 pm on=
+ this Friday evening (April 13th).  Wear something that shows you're one=
+ of us.  Stand under the big pig and follow the revolver across the street=
+ to the van.  Knock twice.  When you've got the stuff, get out of there=
+ fast.  Don't attract attention.  Don't be followed.=0D=0A =0D=0AThat's=
+ it for now.  Sometimes it feels like hope is hard to come by.  What you're=
+ doing makes hope a little easier for me to find.=0D=0A =0D=0ANeil=0D=0A=
+ =0D=0A----=0D=0A =0D=0ATo be removed from this list, reply to this mail=
+ with "unsubscribe" as the subject line.=0D=0A

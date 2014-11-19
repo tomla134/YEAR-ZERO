@@ -1,0 +1,43 @@
+From:   DCS1000@thepriceoftreason.net
+Subject: YOU HAVE BEEN IDENTIFIED AS UN-AMERICAN
+Date: March 26, 2007 10:30:49 PM PDT
+Return-Path: <DCS1000@thepriceoftreason.net>
+Received: from thepriceoftreason.net (unknown [69.20.126.146]) by postalmail-mx1.g.dreamhost.com (Postfix) with ESMTP id 1CA7F77F4B; Mon, 26 Mar 2007 22:30:33 -0700 (PDT)
+Received: from 72934-web02 ([192.168.1.83]) by thepriceoftreason.net with Microsoft SMTPSVC(6.0.3790.1830); Mon, 26 Mar 2007 22:30:49 -0700
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <72934-WEB02Ee4zadTM0000072b@thepriceoftreason.net>
+X-Originalarrivaltime: 27 Mar 2007 05:30:49.0187 (UTC) FILETIME=[13D65330:01C77031]
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16) on  postalmail-mx1.dreamhost.com
+X-Spam-Level: *
+X-Spam-Status: No, score=1.1 required=5.0 tests=FROM_ENDS_IN_NUMS, SPF_HELO_PASS,SPF_PASS,SUBJ_ALL_CAPS,UPPERCASE_25_50 autolearn=no  version=3.0.2
+
+<TRACE>
+<INITIALIZE: DCS1000 v24.5.3>
+<SEARCH>
+<IDENTIFIED: http://www.iamtryingtobelieve.com>
+<IDENTIFIED: http://www.anotherversionofthetruth.com>
+<IDENTIFIED: http://www.artisresistance.com>
+<ERROR: http://www.solutionsbackwardsinitiative.net/pilgrims>
+||||| date-time failure |||||
+<RESUME SEARCH>
+<IDENTIFIED: brian@xxxxxxxx.xxx>
+<END TRACE>
+
+--------------------
+
+ATTENTION!
+
+The Bureau of Morality has identified you as A CONSUMER OF DISSIDENT MATERIAL.
+
+This is a one time warning.  Any further attempts to view, consume, or distribute un-american content will result in the loss of citizenship increments and/or the imposition of fines, penalties, or imprisonment.
+
+You have choices.  Make the RIGHT ones.
+
+For further information on making good choices, visit http://www.thepriceoftreason.net
+
+--------------------
+
+Bureau of Morality
+One Nation Under God
